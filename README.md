@@ -48,13 +48,14 @@ def fungsi_penting(input1, input2):
 
     return output
 ```
-- Anda dapat menuliskan juga 
+- Anda dapat memberikan screenshot hasil akhir data setelah di Wrangling.
 
 
 ## **Exploratory Data Analysis (EDA)**
 - Ceritakan EDA yang telah Anda lakukan sesuai metode yang disebutkan sebelumnya.
 - EDA dapat dibuat per-topik.
 - Tiap topik EDA dapat diberi insight singkat.
+- Anda dipersilahkan untuk menampilkan hasil visualisasi/code.
 
 
 ## **Dashboard**
