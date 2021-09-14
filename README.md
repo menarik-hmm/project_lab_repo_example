@@ -31,5 +31,15 @@
 
 ## **Exploratory Data Analysis (EDA)**
 - Ceritakan EDA yang telah Anda lakukan sesuai metode yang disebutkan sebelumnya.
-- EDA dapat dibuat per-topik
-- 
+- EDA dapat dibuat per-topik.
+- Tiap topik EDA dapat diberi insight singkat.
+
+
+## **Dashboard**
+- Rangkumlah hasil EDA yang Anda lakukan dalam bentuk *dashboard*.
+- Anda dapat membuat *dashboard* menggunakan Tableau agar:
+   - Visualisasi lebih interaktif
+   - Memudahkan Anda dalam membantu mempresentasikan hasil.
+- Sertakan beberapa *screenshot* dari *dashboard*
+- Sertakan link menuju *dashboard* Anda.
+- Contoh dashboard: [Link Dashboard](https://public.tableau.com/app/profile/khulud.saekhan/viz/DashboardProjectLab/DashboardKepemilikanRumah)
