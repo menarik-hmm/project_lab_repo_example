@@ -1,0 +1,2 @@
+- Anda dapat memasukkan code yang dibutuhkan untuk menjalankan project lab ini.
+- Sangat bermanfaat apabila Anda ingin mereplikasi pekerjaan di tempat lain atau memudahkan pembaca mereplikasi pekerjaan Anda.
