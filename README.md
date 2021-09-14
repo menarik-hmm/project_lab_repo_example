@@ -32,7 +32,7 @@
 ## **Wrangling Data**
 - Ceritakan langkah-langkah Anda dalam melakukan wrangling data.
 - Anda dapat pula memasukkan beberapa code yang sengaja di highlight, contoh:
-```
+```python
 def fungsi_penting(input1, input2):
     """
     Fungsi penting ini menghitung sesuatu yang penting
@@ -48,6 +48,7 @@ def fungsi_penting(input1, input2):
 
     return output
 ```
+- Anda dapat menuliskan juga 
 
 
 ## **Exploratory Data Analysis (EDA)**
