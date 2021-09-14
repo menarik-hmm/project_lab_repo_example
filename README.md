@@ -43,3 +43,24 @@
 - Sertakan beberapa *screenshot* dari *dashboard*
 - Sertakan link menuju *dashboard* Anda.
 - Contoh dashboard: [Link Dashboard](https://public.tableau.com/app/profile/khulud.saekhan/viz/DashboardProjectLab/DashboardKepemilikanRumah)
+
+
+## **Analysis**
+- Ceritakan analisis yang Anda lakukan, terutama dalam penjawaban masalah
+- Anda dapat menambah poin-poin analisis lain apabila ada dan diperlukan.
+
+
+## **Conclusion**
+- Berikan jawaban dari setiap pertanyaan dari bagian objective.
+- Juka melakukan analisis tambahan, sertakan juga hasil analisis tersebut.
+
+
+## **Pendukung**
+- Cantumkan link-link pendukung project Anda seperti:
+   - Link Dashboard
+   - Link Youtube video penjelasan
+   - dan lain-lain.
+
+
+## **Reference**
+- Cantumkan reference yang Anda gunakan disini
