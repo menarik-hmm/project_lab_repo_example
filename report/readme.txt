@@ -1,0 +1,2 @@
+- Anda dapat memasukkan pdf report ke folder report.
+- Anda dapat pula memasukkan final report ke dalam folder report
