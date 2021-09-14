@@ -29,6 +29,27 @@
 - Buat pembaca mengerti jalan pikir Anda dalam menyelesaikan permasalahan.
 
 
+## **Wrangling Data**
+- Ceritakan langkah-langkah Anda dalam melakukan wrangling data.
+- Anda dapat pula memasukkan beberapa code yang sengaja di highlight, contoh:
+```
+def fungsi_penting(input1, input2):
+    """
+    Fungsi penting ini menghitung sesuatu yang penting
+
+    Input:
+        input1   : berisi ini
+        input2   : berisi itu
+    
+    Return:
+        output   : output yang didapat
+    """
+    output = input1 + input2
+
+    return output
+```
+
+
 ## **Exploratory Data Analysis (EDA)**
 - Ceritakan EDA yang telah Anda lakukan sesuai metode yang disebutkan sebelumnya.
 - EDA dapat dibuat per-topik.
