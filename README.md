@@ -13,6 +13,8 @@
 - Tuliskan latar belakang dari project yang ingin diselesaikan.
 - Tuliskan masalah yang ingin diselesaikan atau insight yang ingin dijawab.
 - Background dapat ditulis dalam bentuk naratif.
+- Anda dapat memasukkan gambar apabila dibutuhkan
+![](https://asset-a.grid.id//crop/0x0:0x0/700x465/photo/2019/10/31/71888328.jpg)
 
 
 ## **Objectives**
