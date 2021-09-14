@@ -7,10 +7,10 @@ Tuliskan latar belakang dari project yang ingin diselesaikan
 Tuliskan objective yang ingin dijawab agar bisa menyelesaikan masalah. 
 
 Contoh:
-*Berdasarkan data-data yang dihimpun, berikut adalah permasalahan yang hendak dijawab:_
+***Berdasarkan data-data yang dihimpun, berikut adalah permasalahan yang hendak dijawab:_
 - tujuan 1
 - tujuan 2
-- tujuan 3*
+- tujuan 3***
 
 ## Methods
 Tuliskan metode yang Anda lakukan dalam menjawab objective.
